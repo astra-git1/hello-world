@@ -1,2 +1,3 @@
 # hello-world
-just another respository
+Hi, Human
+raj here , I like python programming
